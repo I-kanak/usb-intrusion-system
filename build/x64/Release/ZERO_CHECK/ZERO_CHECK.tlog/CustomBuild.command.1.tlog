@@ -1,0 +1,10 @@
+^C:\USERS\KANAK\DOWNLOADS\MAIN_USB\BUILD\CMAKEFILES\9B0FA9538FBD1496AE263E555B65F303\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Kanak/Downloads/main_usb -BC:/Users/Kanak/Downloads/main_usb/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Kanak/Downloads/main_usb/build/USBStorageMonitor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

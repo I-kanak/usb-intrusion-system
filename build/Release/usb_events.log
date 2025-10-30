@@ -1,0 +1,24 @@
+2025-10-29 22:34:54.487 [INFO] [System] USB Monitor starting...
+2025-10-29 22:34:54.507 [INFO] [USBMonitor] USB monitoring initialized successfully
+2025-10-29 22:34:54.514 [INFO] [WebServer] Starting web server on port 8080
+2025-10-29 22:34:54.518 [INFO] [System] USB Monitor operational
+2025-10-29 22:34:54.521 [INFO] [WebServer] Web server started successfully
+2025-10-29 23:59:43.847 [INFO] [System] USB Monitor starting...
+2025-10-29 23:59:43.868 [INFO] [USBMonitor] USB monitoring initialized successfully
+2025-10-29 23:59:43.874 [INFO] [WebServer] Starting web server on port 8080
+2025-10-29 23:59:43.879 [INFO] [System] USB Monitor operational
+2025-10-29 23:59:43.882 [INFO] [WebServer] Web server started successfully
+2025-10-29 23:59:50.221 [INFO] [USBEvent] Device Inserted - Device: VID_03F0&PID_3640, Name: USB Storage Device
+2025-10-30 00:01:17.739 [INFO] [USBEvent] Device Removed - Device: VID_03F0&PID_3640, Name: USB Storage Device
+2025-10-30 14:15:30.348 [INFO] [System] USB Monitor starting...
+2025-10-30 14:15:30.360 [INFO] [USBMonitor] USB monitoring initialized successfully
+2025-10-30 14:15:30.371 [INFO] [WebServer] Starting web server on port 8080
+2025-10-30 14:15:30.373 [INFO] [System] USB Monitor operational
+2025-10-30 14:15:30.376 [INFO] [WebServer] Web server started successfully
+2025-10-30 14:16:12.711 [INFO] [USBEvent] Device Inserted - Device: VID_03F0&PID_3640, Name: USB Storage Device
+2025-10-30 14:16:52.454 [INFO] [USBEvent] Device Inserted - Device: VID_2717&PID_FF40, Name: USB Storage Device
+2025-10-30 14:17:12.733 [INFO] [DeviceController] Attempting to disable device: VID_2717&PID_FF40
+2025-10-30 14:17:12.938 [INFO] [DeviceController] Successfully disabled device: VID_2717&PID_FF40
+2025-10-30 14:17:13.031 [INFO] [USBMonitor] Device denied: VID_2717&PID_FF40
+2025-10-30 14:17:13.052 [INFO] [USBEvent] Device Removed - Device: VID_2717&PID_FF40, Name: USB Storage Device
+2025-10-30 14:17:47.394 [INFO] [USBEvent] Device Removed - Device: VID_03F0&PID_3640, Name: USB Storage Device

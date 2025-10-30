@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kanak\Downloads\main_usb\build\CMakeFiles\9b0fa9538fbd1496ae263e555b65f303\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1F0B9588-B3AE-3799-B0F5-2C4FDED2B15A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

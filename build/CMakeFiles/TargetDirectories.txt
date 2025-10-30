@@ -1,0 +1,4 @@
+C:/Users/Kanak/Downloads/main_usb/build/CMakeFiles/USBStorageMonitor.dir
+C:/Users/Kanak/Downloads/main_usb/build/CMakeFiles/INSTALL.dir
+C:/Users/Kanak/Downloads/main_usb/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kanak/Downloads/main_usb/build/CMakeFiles/ZERO_CHECK.dir
